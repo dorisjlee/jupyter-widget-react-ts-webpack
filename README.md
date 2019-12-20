@@ -1,7 +1,7 @@
 # jupyter-widget-react-ts-webpack
 Jupyter Widget (ipywidget) written in React (with JSX), Typescript, compiled with webpack.
 
-![demo gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![demo gif](demo.gif)
 
 This is an example Jupyter Widget that uses React and is written in Typescript.
 The template is largely based off of [widget-ts-cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter) and [this](https://github.com/jupyter-widgets/ipywidgets/issues/2207#issuecomment-422957803) ipywidget issue. 
