@@ -70,7 +70,7 @@
     "ts-loader": "^5.4.5",
     "typescript": "^3.1.6",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   },
   "jupyterlab": {
     "extension": "lib/plugin"
